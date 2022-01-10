@@ -6,7 +6,8 @@
 競プロ典型90問（https://atcoder.jp/contests/typical90）
 <br>★２ => １週目完了
 <br>★３ => １週目完了
-<br>★２ => ２週目
+<br>★２ => ２週目完了
+<br>★３ => ２週目途中
 <br>
 <br>=======
 <br>
