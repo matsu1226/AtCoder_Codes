@@ -1,19 +1,3 @@
-  x = Math.sqrt( px**2 + (sy - py)**2 )
-  y = sz
-  puts Math.atan(y/x) * 180/PI
-end
-ruby ./typical90/018_StatueOfChokudai.rb
-ruby ./typical90/032_AtCoderEkiden.rb
-ruby ./typical90/032_AtCoderEkiden.rb
-ruby ./typical90/032_AtCoderEkiden.rb
-1 2
-1 2
-ruby ./typical90/032_AtCoderEkiden.rb
-ruby ./typical90/032_AtCoderEkiden.rb
-ruby ./typical90/032_AtCoderEkiden.rb
-ruby ./typical90/038_LargeLCM.rb
-ruby ./typical90/038_LargeLCM.rb
-ruby ./typical90/038_LargeLCM.rb
 ruby ./typical90/038_LargeLCM.rb
 ruby ./typical90/038_LargeLCM.rb
 ruby ./typical90/038_LargeLCM.rb
@@ -498,3 +482,19 @@ ruby ./typical90/redo/Select+-One.rb
 ruby ./typical90/redo/024_Select+-One.rb
 ruby ./typical90/redo/027_SignUpRequests.rb
 ruby ./typical90/redo/027_SignUpRequests.rb
+ruby ./typical90/redo/033_NotTooBright.rb
+ruby ./typical90/redo/033_NotTooBright.rb
+ruby ./typical90/redo/033_NotTooBright.rb
+ruby ./typical90/redo/033_NotTooBright.rb
+ruby ./typical90/redo/033_NotTooBright.rb
+ruby ./typical90/redo/033_NotTooBright.rb
+ruby ./typical90/redo/055_Select5.rb.rb
+ruby ./typical90/redo/055_Select5.rb
+ruby ./typical90/redo/055_Select5.rb
+ruby ./typical90/redo/055_Select5.rb
+ruby ./typical90/redo/055_Select5.rb
+ruby ./typical90/redo/055_Select5.rb
+irb
+ruby ./typical90/redo/055_Select5.rb
+ruby ./typical90/redo/055_Select5.rb
+ruby ./typical90/redo/055_Select5.rb
